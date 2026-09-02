@@ -1,0 +1,14 @@
+site_name: Библиотека практики
+site_description: Руководства и исследования для авторов, режиссёров и самостоятельных креаторов.
+
+theme:
+  name: material
+  language: ru
+
+plugins:
+  - search
+
+nav:
+  - Библиотека: index.md
+  - Авторство в цифровую эпоху:
+      - Начать: authorship/index.md
